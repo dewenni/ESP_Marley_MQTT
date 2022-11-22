@@ -1,5 +1,5 @@
 # ESP_Marley_MQTT
-Control your Marley Fresh air heat exchanger MEnV with ESP8266 and MQTT 
+Control your Marley Fresh air heat exchanger MEnV with ESP8266 and MQTT  
 This project was tested with Marley MEnV 180mm (1. Edition)
 
 ---
@@ -7,7 +7,7 @@ This project was tested with Marley MEnV 180mm (1. Edition)
 ## Hardware Requirements
 
 ### ESP-Module
-Any kind of ESP with SPI interface and at least 2 GPIO to select TX and RX
+Any kind of ESP with SPI interface and at least 2 GPIO to select TX and RX.  
 I have used a Wemos D1 mini based on ESP8266
 
 ### 433Mhz Module
